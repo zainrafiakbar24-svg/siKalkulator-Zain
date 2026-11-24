@@ -1,2 +1,3 @@
 # siKalkulator-Zain
-Tugas Pak Muhidin Pemrogrman Visual - Kalkulator
+Tugas Pak Muhidin Pemrograman Visual - Aplikasi Kalkulator
+dibuat oleh: Rafi Akbar Zain
